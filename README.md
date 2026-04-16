@@ -33,7 +33,7 @@ So an HTML comment that says "the map is not the territory" means one thing floa
 
 That's what separates this from optimization. An optimized comment says the right keywords. A well-placed comment says something the visible page can't.
 
-The School for Poetic Computation established long ago that code is a poetic medium. This project just asks what happens when you apply that insight to the code nobody thought was worth reading.
+Jodi.org made the source code the artwork. The School for Poetic Computation established that code is a poetic medium. James Bridle asked us to listen to machines trying to speak to us. This project is meant to pick up from where they pointed — the code nobody thought was worth reading, written for the readers nobody thought were worth writing for.
 
 ## The premise
 
