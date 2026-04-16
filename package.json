@@ -1,0 +1,37 @@
+{
+  "name": "poetry-for-llms",
+  "version": "0.1.0",
+  "description": "A framework for writing the invisible layer of your website with care. What does poetry look like when machines are the audience?",
+  "type": "module",
+  "bin": {
+    "what-llms-see": "./tools/bin/what-llms-see.js",
+    "poetry-for-llms": "./tools/bin/what-llms-see.js"
+  },
+  "scripts": {
+    "demo": "node tools/bin/what-llms-see.js examples/demo/index.html"
+  },
+  "keywords": [
+    "llm",
+    "seo",
+    "geo",
+    "generative-engine-optimization",
+    "html-comments",
+    "structured-data",
+    "schema-org",
+    "poetry",
+    "audience",
+    "machine-readers"
+  ],
+  "author": "Kenyatta Cheese",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kenyattacheese/poetry-for-llms"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

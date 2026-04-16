@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+.claude/
+
+# Working docs — not for public repo
+CLAUDE.md
+EA1-SITE-PUNCHLIST.md
+HANDOFF-cli-testing.md
